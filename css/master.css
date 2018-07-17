@@ -1,0 +1,14 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.scene{
+  width:1301px;
+  height:670px;
+  position: relative;
+}
+.controll{
+  position: absolute;
+  z-index: 1000;
+}
